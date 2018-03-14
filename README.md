@@ -1,4 +1,4 @@
-# Particle-App_Template
+# Particle_App_Template
 MIT App Inventor 2 program that serves as a template for creating apps that communicate with a Particle Photon or Electron.
 
 This project provides a template for creating apps that can communicate with Particle devices (e.g. Photon, Electron) over the Internet, 
