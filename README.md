@@ -27,7 +27,8 @@ https://github.com/BobGlicksman/MIT-App-Inventor-Particle-Photon-test.
 
 NOTE:  This project uses an AI2 extension “TaiFun Tools” from Pura Vida Apps (https://puravidaapps.com/extensions.php).  You should not need to install this extension if you download the .aia file from this repository into your MIT App Inventor 2 IDE.  However, you should definitely check out all of the amazing extensions on this site and while you are there, please make a small donation to support Pura Vida Apps (Team Practical Projects has nothing to do with this site, but we respect it immensely).
 
-All materials contained in this repository are (c) 2018 by Bob Glicksman and Team Practical Projects and are distributed freely under
+All materials contained in this repository are (c) 2018 by Bob Glicksman,
+Jim Schrempp and Team Practical Projects and are distributed freely under
 an open source, non-commercial license, see: https://creativecommons.org/licenses/by-nc/4.0/
 
 NOTE:  This repository is very sparce at present.  We intend to add copious documentation in the near future.
