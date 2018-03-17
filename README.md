@@ -23,9 +23,10 @@ The concept is for an app developer to make a copy of the source code file (.aia
 project in AI2.  The developer can then use add their project code (in AI2) to Screen1, using the global variables for user_token
 and device_ID to communicate with the selected Particle device.  An example of how to communicate with a Particle device to
 read device variables from the Particle Cloud and call device functions via the Particle Cloud can be found in the project:
-https://github.com/TeamPracticalProjects/MIT-App-Inventor-Particle-Photon-test.
 
-NOTE:  This project uses an AI2 extension ìTaiFun Toolsî from Pura Vida Apps (https://puravidaapps.com/extensions.php).  You should not need to install this extension if you download the .aia file from this repository into your MIT App Inventor 2 IDE.  However, you should definitely check out all of the amazing extensions on this site and while you are there, please make a small donation to support Pura Vida Apps (Team Practical Projects has nothing to do with this site, but we respect it immensely).
+https://github.com/TeamPracticalProjects/MIT-App-Inventor-Particle-Photon-test
+
+NOTE:  This project uses an AI2 extension ‚ÄúTaiFun Tools‚Äù from Pura Vida Apps (https://puravidaapps.com/extensions.php).  You should not need to install this extension if you download the .aia file from this repository into your MIT App Inventor 2 IDE.  However, you should definitely check out all of the amazing extensions on this site and while you are there, please make a small donation to support Pura Vida Apps (Team Practical Projects has nothing to do with this site, but we respect it immensely).
 
 All materials contained in this repository are (c) 2018 by Bob Glicksman,
 Jim Schrempp and Team Practical Projects and are distributed freely under
