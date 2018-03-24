@@ -1,4 +1,4 @@
-# Particle_App_Template
+﻿# Particle_App_Template
 ## MIT App Inventor 2 program that serves as a template for creating apps that communicate with a Particle Photon or Electron.
 
 This project provides a template for creating apps that can communicate with Particle devices (e.g. Photon, Electron) over the Internet, 
@@ -17,7 +17,7 @@ that it is online and thus able to communicate with the app.
 The user can also tap "Setup", which takes the user to a Device Setup Screen where the user can provide their Particle login ID
 and password and use these to query the Particle Cloud for a list of all devices in the user's Particle account.  The user can then
 select the device that they wish to use with the app from a pick list, and the user and device credentials are then stored in the app's
-persistant storage (tinyDB) as the future default when opening the app.
+persistent storage (tinyDB) as the future default when opening the app.
 
 The concept is for an app developer to make a copy of the source code file (.aia), name this file for their project, and open the
 project in AI2.  The developer can then use add their project code (in AI2) to Screen1, using the global variables for user_token
@@ -30,9 +30,9 @@ NOTE:  This project uses an AI2 extension “TaiFun Tools” from Pura Vida Apps
 
 All materials contained in this repository are (c) 2018 by Bob Glicksman,
 Jim Schrempp and Team Practical Projects and are distributed freely under
-an open source, non-commercial license, see: https://creativecommons.org/licenses/by-nc/4.0/
+an open source, non-commercial license, see: https://creativecommons.org/licenses/by-nc/4.0/.  Use of the material in this repository is subject to the document “Terms_of_Use_License_And_Disclaimer”, included in this repository.
 
-NOTE:  This repository is very sparce at present.  We intend to add copious documentation in the near future.
+NOTE:  This repository is very sparse at present.  We intend to add copious documentation in the near future.
 
 Enjoy,
 Team Practical Projects
