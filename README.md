@@ -20,7 +20,7 @@ select the device that they wish to use with the app from a pick list, and the u
 persistent storage (tinyDB) as the future default when opening the app.
 
 The concept is for an app developer to make a copy of the source code file (.aia), name this file for their project, and open the
-project in AI2.  The developer can then use add their project code (in AI2) to Screen1, using the global variables for user_token
+project in AI2.  The developer can then add their project code (in AI2) to Screen1, using the global variables for user_token
 and device_ID to communicate with the selected Particle device.  An example of how to communicate with a Particle device to
 read device variables from the Particle Cloud and call device functions via the Particle Cloud can be found in the project:
 
