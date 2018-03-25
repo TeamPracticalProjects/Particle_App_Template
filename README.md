@@ -32,7 +32,5 @@ All materials contained in this repository are (c) 2018 by Bob Glicksman,
 Jim Schrempp and Team Practical Projects and are distributed freely under
 an open source, non-commercial license, see: https://creativecommons.org/licenses/by-nc/4.0/.  Use of the material in this repository is subject to the document “Terms_of_Use_License_And_Disclaimer”, included in this repository.
 
-NOTE:  This repository is very sparse at present.  We intend to add copious documentation in the near future.
-
 Enjoy,
 Team Practical Projects
